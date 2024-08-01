@@ -1,0 +1,28 @@
+#banner-cnt{
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    background-color: rgb(56, 54, 54)
+}
+h3{
+    color: white;
+}
+#banner-cnt>div{
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+button{
+    height: 40px;
+    width: 150px;
+    border-radius: 15px;
+    color: white;
+    background-color: red;
+}
+.img-cnt{
+    width: 100%;
+    height: auto;
+}
+.img-cnt>img{
+    width: 100%;
+}

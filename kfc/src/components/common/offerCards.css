@@ -1,0 +1,15 @@
+.offercardCnt{
+    margin-top: 60px;
+    display: block;
+    text-align: center;
+    width: 80%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+.offercardCnt > img{
+    width: 100%;
+    height: auto;
+}
+.offercardCnt > h2 {
+    color: white;
+}

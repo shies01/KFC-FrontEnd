@@ -1,0 +1,21 @@
+#container{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+#container > div{
+    display: flex;
+    justify-content: space-evenly;
+    width: 30%;
+    padding: 10px;
+}
+img{
+    /* width: 100px; */
+    height: auto;
+}
+a{
+    text-decoration: none; /* Remove underline from links */
+    color: #000; /* Change link color */
+    font-size: 16px; 
+}
